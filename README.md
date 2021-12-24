@@ -1,4 +1,4 @@
-﻿﻿
+﻿﻿﻿
 
 ## 前端笔记
 
@@ -12,9 +12,15 @@
 
 
 
-
-
 ## Java笔记
+
+### Java基础
+
+- [JavaSE.md](./Note/JavaSE/JavaSE.md)
+- [JavaSE-list.html](./Note/JavaSE/JavaSE-list.html)
+- [JavaSE-unlist.html](./Note/JavaSE/JavaSE-unlist.html)
+
+
 
 ### Spring全家桶
 
